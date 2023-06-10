@@ -1,0 +1,14 @@
+{
+    "id": {
+        "N": "1"
+    },
+    "descricao": {
+        "S": "O Yakisoba é um prato da culinária japonesa que se tornou popular em várias partes do mundo. É uma receita de macarrão frito com legumes, carne e molho. O termo 'yakisoba' pode ser traduzido como 'macarrão frito' em japonês."
+    },
+    "nome": {
+        "S": "Yakisoba"
+    },
+    "url_imagem": {
+        "S": "http://exemplo.com/imagem.png"
+    }
+}
